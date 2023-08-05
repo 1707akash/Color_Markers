@@ -8,7 +8,7 @@ In the head tag, title tag is used to give the name to the document.<br>
 ![color](https://github.com/1707akash/Color_Markers/assets/117883959/40d6a62e-51ac-4f54-8fe4-9e3fb882dbbd)
 ![htmlcode](https://github.com/1707akash/Color_Markers/assets/117883959/240a39e4-b05a-4023-8e57-b3eea6e2c954)
 ![csscode1](https://github.com/1707akash/Color_Markers/assets/117883959/4a860217-11a6-4af3-ac18-885d26e3e7f6)
-![css2](https://github.com/1707akash/Color_Markers/assets/117883959/33e09e0e-1c16-4326-bf16-e15346cd6f37)
+![css2](https://github.com/1707akash/Color_Markers/assets/117883959/33e09e0e-1c16-4326-bf16-e15346cd6f37) <br>
 body tag contains the body of the html file.<br>
 h1 tag is used for writing heading CSS Color Markers., it has been text aligned center with tag selector<br>
 div tag is used for dividing work in sections. <br>
